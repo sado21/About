@@ -50,14 +50,6 @@ h1 {
 
 #nav li {display:inline;}
 
-#feature {
-  height: 10em;
-  margin-bottom: 1em;
-  background-color:green;
-  background-image: url("");
-  background-size:contain;
-  background-position: center;
-  background-repeat:no-repeat;}
 
 p, h1,a { 
   font-family: 'DancingScriptRegular'; 
