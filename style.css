@@ -40,13 +40,13 @@ h1 {
 }
 
 #nav, #footer {
-  
+
   background-color:pink;
   padding: 0.5em 12px;
   margin: 0.5px;
   padding: 10px 20px
 }
-  
+
 
 #nav li {display:inline;}
 
@@ -56,6 +56,5 @@ p, h1,a {
   font-weight: normal; 
   font-style: normal; 
   font-size: 200%;
-
 
 
