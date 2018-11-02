@@ -2,7 +2,8 @@
 * {
   font-family: 'CMUSerifRoman'; 
    font-weight: normal; 
-   font-style: normal; }
+   font-style: normal; 
+  text-align: center; }
 
 body {
   padding: 0.5em;
@@ -57,5 +58,7 @@ p, h1,a {
   font-family: 'CMUSerifRoman'; 
    font-weight: normal; 
    font-style: normal; 
+   font-size:200%;
+}
 
 
