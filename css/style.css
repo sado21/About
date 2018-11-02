@@ -1,9 +1,9 @@
 -
 * {
-  font-family: 'CMUSerifRoman'; 
+   font-family: 'CMUSerifRoman'; 
    font-weight: normal; 
-   font-style: normal; 
-  text-align: center; }
+   font-style: normal; ; 
+  text-align: center;}
 
 body {
   padding: 0.5em;
@@ -40,13 +40,13 @@ h1 {
 }
 
 #nav, #footer {
-
+  
   background-color:pink;
   padding: 0.5em 12px;
   margin: 0.5px;
   padding: 10px 20px
 }
-
+  
 
 #nav li {
   display:inline;
@@ -55,10 +55,8 @@ h1 {
 
 
 p, h1,a { 
-  font-family: 'CMUSerifRoman'; 
+   font-family: 'CMUSerifRoman'; 
    font-weight: normal; 
    font-style: normal; 
-   font-size:200%;
+  font-size: 200%;
 }
-
-
