@@ -49,6 +49,10 @@ h1 {
 .image{
 postion :relative;}
 
+.clear{
+   clear:both;
+}
+
 #nav li {
   display:inline;
   padding: 1em;
