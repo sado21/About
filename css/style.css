@@ -47,7 +47,12 @@ h1 {
   padding: 10px 20px
 }
 .image{
-postion :relative;}
+postion :relative;
+   margin-left:10%;
+   margin-right:10%;
+   text-align:center;
+   border-radius: 50%;
+}
 
 .clear{
    clear:both;
